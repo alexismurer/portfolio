@@ -62,7 +62,7 @@ const Hero = () => {
           </div>
         </div>
         <Tilt>
-          <div className="bg-gradient sm:block hidden">
+          <div className="bg-gradient">
             <div className="animated-circle shadow-card">
               <img className="avatar" src={pfp} />
             </div>
